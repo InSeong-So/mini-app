@@ -1,1 +1,0 @@
-/Users/tene/Development/toys/mini-app/logi/target/debug/logi: /Users/tene/Development/toys/mini-app/logi/src/auth.rs /Users/tene/Development/toys/mini-app/logi/src/cli.rs /Users/tene/Development/toys/mini-app/logi/src/journal.rs /Users/tene/Development/toys/mini-app/logi/src/main.rs /Users/tene/Development/toys/mini-app/logi/src/storage.rs
